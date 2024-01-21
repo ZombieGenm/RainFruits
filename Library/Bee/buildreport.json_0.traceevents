@@ -1,0 +1,391 @@
+{ "pid": 32672, "tid": 21474836480, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450464030, "dur": 14506, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450478538, "dur": 243826, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450478548, "dur": 20, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450478574, "dur": 10917, "ph": "X", "name": "ReadAsync 4", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450489499, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450489502, "dur": 31, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450489535, "dur": 441, "ph": "X", "name": "ProcessMessages 52", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450489978, "dur": 613, "ph": "X", "name": "ReadAsync 52", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450490596, "dur": 33, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450490631, "dur": 482, "ph": "X", "name": "ProcessMessages 386", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450491115, "dur": 28, "ph": "X", "name": "ReadAsync 386", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450491145, "dur": 185, "ph": "X", "name": "ProcessMessages 81", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450491333, "dur": 802, "ph": "X", "name": "ReadAsync 81", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450492139, "dur": 26, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450492167, "dur": 375, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450492544, "dur": 226592, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450719142, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450719146, "dur": 34, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450719184, "dur": 2288, "ph": "X", "name": "ProcessMessages 1576", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450721474, "dur": 37, "ph": "X", "name": "ReadAsync 1576", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450721514, "dur": 1, "ph": "X", "name": "ProcessMessages 41", "args": {} },
+{ "pid": 32672, "tid": 21474836480, "ts": 1705842450721516, "dur": 844, "ph": "X", "name": "ReadAsync 41", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450729046, "dur": 1196, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 32672, "tid": 17179869184, "ph": "M", "name": "thread_name", "args": { "name": "WaitForBuildProgramInputDataBeingWrittenAndSendDagReadyMessageAsync" } },
+{ "pid": 32672, "tid": 17179869184, "ts": 1705842450464004, "dur": 3, "ph": "X", "name": "await writeBuildProgramInputDataTask", "args": {} },
+{ "pid": 32672, "tid": 17179869184, "ts": 1705842450464007, "dur": 14529, "ph": "X", "name": "WritePipe.WaitConnectionAsync", "args": {} },
+{ "pid": 32672, "tid": 17179869184, "ts": 1705842450478537, "dur": 26, "ph": "X", "name": "WriteDagReadyMessage", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450730246, "dur": 4, "ph": "X", "name": "WaitForBuildProgramInputDataBeingWrittenAndSendDagReadyMessageAsync", "args": {} },
+{ "pid": 32672, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 32672, "tid": 1, "ts": 1705842450264196, "dur": 3467, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 32672, "tid": 1, "ts": 1705842450267666, "dur": 36146, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 32672, "tid": 1, "ts": 1705842450303817, "dur": 3079, "ph": "X", "name": "WriteJson", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450730252, "dur": 3, "ph": "X", "name": "", "args": {} },
+{ "pid": 32672, "tid": 12884901888, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 32672, "tid": 12884901888, "ts": 1705842450262719, "dur": 8796, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 32672, "tid": 12884901888, "ts": 1705842450271516, "dur": 3900, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 32672, "tid": 12884901888, "ts": 1705842450272236, "dur": 1977, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 32672, "tid": 12884901888, "ts": 1705842450274217, "dur": 834, "ph": "X", "name": "ProcessMessages 29", "args": {} },
+{ "pid": 32672, "tid": 12884901888, "ts": 1705842450275053, "dur": 79, "ph": "X", "name": "ReadAsync 29", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450730257, "dur": 4, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 32672, "tid": 8589934592, "ph": "M", "name": "thread_name", "args": { "name": "WaitForBuildProgramInputDataBeingWrittenAndSendDagReadyMessageAsync" } },
+{ "pid": 32672, "tid": 8589934592, "ts": 1705842450260192, "dur": 46731, "ph": "X", "name": "await writeBuildProgramInputDataTask", "args": {} },
+{ "pid": 32672, "tid": 8589934592, "ts": 1705842450306924, "dur": 2, "ph": "X", "name": "WritePipe.WaitConnectionAsync", "args": {} },
+{ "pid": 32672, "tid": 8589934592, "ts": 1705842450306927, "dur": 1232, "ph": "X", "name": "WriteDagReadyMessage", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450730311, "dur": 5, "ph": "X", "name": "WaitForBuildProgramInputDataBeingWrittenAndSendDagReadyMessageAsync", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ph": "M", "name": "thread_name", "args": { "name": "BuildAsync" } },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450242625, "dur": 66183, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450246618, "dur": 7485, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450308905, "dur": 150921, "ph": "X", "name": "await ExecuteBuildProgram", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450459986, "dur": 262403, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450460072, "dur": 3914, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450722395, "dur": 3361, "ph": "X", "name": "await WaitForAndApplyScriptUpdaters", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450724713, "dur": 26, "ph": "X", "name": "await ScriptUpdaters", "args": {} },
+{ "pid": 32672, "tid": 4294967296, "ts": 1705842450725759, "dur": 8, "ph": "X", "name": "await taskToReadBuildProgramOutput", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450730317, "dur": 7, "ph": "X", "name": "BuildAsync", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705842450478909, "dur":11566, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450490522, "dur":393, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450490938, "dur":61, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450490999, "dur":228642, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450719643, "dur":251, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450720007, "dur":1038, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491065, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491132, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\Tools\\BuildPlayerDataGenerator\\BuildPlayerDataGenerator.exe" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491206, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491367, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491488, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491777, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491925, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450492056, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\ScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842450491056, "dur":1205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json" }}
+,{ "pid":12345, "tid":1, "ts":1705842450492521, "dur":226971, "ph":"X", "name": "BuildPlayerDataGenerator",  "args": { "detail":"Library/BuildPlayerData/Editor/TypeDb-All.json" }}
+,{ "pid":12345, "tid":2, "ts":1705842450491100, "dur":228543, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842450491074, "dur":308, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842450491383, "dur":2055, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842450493438, "dur":226225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842450491091, "dur":2350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842450493442, "dur":226202, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842450491116, "dur":228523, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842450491138, "dur":228499, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842450491154, "dur":228486, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842450491178, "dur":228468, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842450491201, "dur":228459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705842450491231, "dur":228439, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705842450491246, "dur":228411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842450491271, "dur":228376, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842450491289, "dur":228359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705842450491306, "dur":228345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705842450491327, "dur":228329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705842450491348, "dur":228306, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842450722256, "dur":191, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
+{ "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
+{ "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 35942, "tid": 1, "ts": 1705842450369994, "dur": 78131, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450370805, "dur": 33026, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450434146, "dur": 4047, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450438195, "dur": 9927, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450438905, "dur": 8910, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450453392, "dur": 992, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1705842450453074, "dur": 1477, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1705842292362014, "dur":882, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292362904, "dur":90, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292363019, "dur":385, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292363423, "dur":2277, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292365701, "dur":107563, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292473265, "dur":128, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292473393, "dur":116, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292473645, "dur":778, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1705842292363379, "dur":2327, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705842292365707, "dur":4460, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370205, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370292, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370538, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Akira_Ikeda\\Unity\\XPchan-Game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370618, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Akira_Ikeda\\Unity\\XPchan-Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370740, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Akira_Ikeda\\Unity\\XPchan-Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370799, "dur":226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Akira_Ikeda\\Unity\\XPchan-Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842292371026, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Akira_Ikeda\\Unity\\XPchan-Game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1705842292370204, "dur":1141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1705842292371752, "dur":97352, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1705842292472363, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1705842292472362, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1705842292472433, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1705842292363381, "dur":2327, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705842292365709, "dur":689, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705842292366399, "dur":3790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705842292370200, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":2, "ts":1705842292370190, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1705842292391819, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1705842292394082, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705842292394169, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1705842292396747, "dur":22011, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1705842292418781, "dur":3656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1705842292422454, "dur":50812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292363388, "dur":2325, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292365715, "dur":602, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292366318, "dur":3858, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292370187, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705842292370177, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705842292371298, "dur":2500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1705842292373935, "dur":1408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1705842292375634, "dur":3048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292378738, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292378808, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292380259, "dur":2149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292382489, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292384006, "dur":1549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292385610, "dur":275, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292385898, "dur":1909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292387892, "dur":1861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292389847, "dur":2028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292391928, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292392001, "dur":2993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292395051, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1705842292395130, "dur":10460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1705842292405651, "dur":16473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1705842292422215, "dur":51050, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292363405, "dur":2313, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292365720, "dur":654, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292366375, "dur":3803, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292370179, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1705842292370292, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292384506, "dur":1480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1705842292386046, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292386176, "dur":1824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705842292388054, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292388170, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705842292390228, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705842292392345, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1705842292392453, "dur":2946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705842292395517, "dur":30878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1705842292426444, "dur":46827, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292363423, "dur":2298, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292365723, "dur":714, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292366437, "dur":3754, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292370193, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705842292370326, "dur":50, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292371322, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1705842292373460, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1705842292373680, "dur":1210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1705842292374968, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame.exe" }}
+,{ "pid":12345, "tid":5, "ts":1705842292376547, "dur":251, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292376827, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292378020, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292379874, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292381714, "dur":1434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292383215, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292384635, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292386472, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1705842292386611, "dur":2124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292388823, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292391005, "dur":2619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292393715, "dur":2530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1705842292396296, "dur":28099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1705842292424405, "dur":48874, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292363452, "dur":2274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292365728, "dur":710, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292366438, "dur":3737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292370180, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1705842292378789, "dur":1598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1705842292380496, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292382110, "dur":1405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292383611, "dur":1534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292385202, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292385292, "dur":2101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292387480, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292389637, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292391796, "dur":2602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292394448, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1705842292394524, "dur":2330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1705842292396918, "dur":23469, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1705842292420432, "dur":3417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1705842292423868, "dur":49409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292363479, "dur":2253, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292365734, "dur":672, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292366406, "dur":3773, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292370200, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705842292370179, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705842292371391, "dur":3029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1705842292374756, "dur":1394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292376290, "dur":1425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292377770, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292378016, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292379293, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292380931, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292380997, "dur":840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292381856, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292381954, "dur":1372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292383381, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292383459, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292385032, "dur":2585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292387668, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292387752, "dur":2186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292389996, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1705842292390084, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292392182, "dur":2613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292394882, "dur":10550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1705842292405498, "dur":15923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1705842292421481, "dur":2522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1705842292424015, "dur":49261, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292363498, "dur":2240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292365740, "dur":406, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292366146, "dur":4063, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292370210, "dur":164, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1705842292371456, "dur":2535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1705842292374083, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292374172, "dur":1440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1705842292375728, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292378338, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292378453, "dur":1527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292380032, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292380135, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292381501, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292381607, "dur":1365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292382991, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292383218, "dur":1552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292384819, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292384900, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292387266, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292389405, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1705842292389475, "dur":1991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292391539, "dur":3060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292394671, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1705842292397033, "dur":27111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1705842292424161, "dur":49112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292363522, "dur":2222, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292365747, "dur":76, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292365824, "dur":4347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292370201, "dur":185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":9, "ts":1705842292370179, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":9, "ts":1705842292370634, "dur":4042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/UnityCrashHandler32.exe" }}
+,{ "pid":12345, "tid":9, "ts":1705842292374741, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292374831, "dur":3256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292378165, "dur":1235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292379502, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292381384, "dur":821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292382252, "dur":1481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292383788, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292383858, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292385436, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292386904, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292389027, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292391157, "dur":231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1705842292391405, "dur":2420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292393902, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1705842292396455, "dur":26889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":9, "ts":1705842292423360, "dur":49910, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705842292363546, "dur":2205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705842292365752, "dur":4422, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705842292370174, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1705842292370263, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1705842292396679, "dur":22981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1705842292419794, "dur":3730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1705842292423543, "dur":49737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705842292363563, "dur":2194, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705842292365758, "dur":4425, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705842292370184, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1705842292385466, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1705842292387094, "dur":2057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705842292389226, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705842292391321, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1705842292391402, "dur":2802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705842292394279, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705842292395279, "dur":24727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1705842292420110, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":11, "ts":1705842292424280, "dur":48992, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292363584, "dur":2177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292365761, "dur":4411, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292370191, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1705842292370175, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1705842292370288, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292371777, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1705842292373770, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":12, "ts":1705842292375495, "dur":2006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1705842292377600, "dur":1376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292379038, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292379147, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292380645, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292380747, "dur":2045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292382855, "dur":1480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292384429, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292386292, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292388436, "dur":212, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292388664, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292390600, "dur":2088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292392744, "dur":107, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1705842292392864, "dur":2723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1705842292395649, "dur":27493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":12, "ts":1705842292423160, "dur":50115, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292363607, "dur":2161, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292365768, "dur":4402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292370688, "dur":3518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/app.info" }}
+,{ "pid":12345, "tid":13, "ts":1705842292374207, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1705842292374603, "dur":1245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1705842292375923, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292376038, "dur":2448, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292378582, "dur":1009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292379648, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292379740, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292381134, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292381198, "dur":1401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292382618, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292382758, "dur":1375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292384185, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292384251, "dur":1519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292385823, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292385908, "dur":2278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292388268, "dur":2059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292390417, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292392548, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292392671, "dur":3882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1705842292396594, "dur":22162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1705842292418805, "dur":4890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1705842292423713, "dur":49555, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705842292363630, "dur":2145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705842292365776, "dur":4406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705842292370190, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1705842292384841, "dur":1767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1705842292386704, "dur":1857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705842292388667, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705842292390774, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1705842292390846, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705842292393299, "dur":2468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1705842292395831, "dur":25861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1705842292421710, "dur":51557, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705842292363659, "dur":2123, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705842292365782, "dur":4420, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705842292370205, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1705842292370284, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1705842292391235, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1705842292392999, "dur":3089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1705842292396132, "dur":26771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":15, "ts":1705842292422942, "dur":50320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705842292363684, "dur":2103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705842292365788, "dur":4407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1705842292370209, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.17f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win32_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1705842292370197, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1705842292391569, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1705842292393492, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1705842292395973, "dur":26695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Akira_Ikeda/Unity/Rain!Fruits!/RainFruitsGame_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":16, "ts":1705842292422697, "dur":50564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1705842292475359, "dur":658, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 32672, "tid": 628780, "ts": 1705842450730696, "dur": 2692, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend2.traceevents"} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450735013, "dur": 26, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "buildprogram0.traceevents"} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450735166, "dur": 15, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend1.traceevents"} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450733425, "dur": 1585, "ph": "X", "name": "backend2.traceevents", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450735062, "dur": 103, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450735199, "dur": 273, "ph": "X", "name": "backend1.traceevents", "args": {} },
+{ "pid": 32672, "tid": 628780, "ts": 1705842450728518, "dur": 7806, "ph": "X", "name": "Write chrome-trace events", "args": {} },
